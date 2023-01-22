@@ -1,5 +1,5 @@
 # HooBank - Modern UI/UX website using React.js & Tailwind CSS
-Live Site ()
+Live Site (https://kwamasali-hoobank-app.netlify.app/)
 Link to the figma design file (https://www.figma.com/file/yvClSI9AZBRX8UaaGEByF3/Modern-UI%2FUX%3A-Gericht?node-id=0%3A1&t=lBW7lCLI2QBGP7pk-0)
 
 
